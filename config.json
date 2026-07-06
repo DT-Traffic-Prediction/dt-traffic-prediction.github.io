@@ -1,3 +1,3 @@
 {
-  "apiBaseUrl": "https://paddle-condense-cling.ngrok-free.dev/api"
+  "apiBaseUrl": "http://192.168.0.48:5001/"
 }
